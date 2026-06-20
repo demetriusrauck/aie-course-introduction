@@ -1,0 +1,3 @@
+- First assignment for setting up GitHub repo in AI Engineering Certificate Program
+- hello_world_ascii.py hello_world_ascii.js
+- I found a site that can generate ascii text art and used that to print "Hello, World!"
